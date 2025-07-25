@@ -27,18 +27,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dineshmca500&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dineshmca500&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 
 - Email: [dineshmca500@gmail.com](mailto:dineshmca500@gmail.com)
 - Phone: +91 8563019149
-- LinkedIn: [linkedin.com/in/dineshmca500](https://www.linkedin.com/in/dineshmca500)
+- LinkedIn: [linkedin.com/in/dinesh-yadav-a506b4219](https://www.linkedin.com/in/dinesh-yadav-a506b4219/)
 
 ---
 
