@@ -59,5 +59,3 @@ Here’s a refined version for you:
 * 📱 Phone: +91 8563019149
 * 💼 LinkedIn: [linkedin.com/in/dinesh-yadav-a506b4219](https://www.linkedin.com/in/dinesh-yadav-a506b4219/)
 * 🐙 GitHub: [github.com/DineshYadav1507](https://github.com/DineshYadav1507)
-
-Do you want me to also **design a version optimized for LinkedIn "About" section** (shorter, recruiter-focused)?
