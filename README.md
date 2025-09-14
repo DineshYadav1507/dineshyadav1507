@@ -1,7 +1,4 @@
-Got it 👍 You want a **GitHub-style profile README** but focused on your **DevOps Engineer role** instead of Python Developer.
-Here’s a refined version for you:
 
----
 
 # 👋 Hi, I'm Dinesh Kumar Yadav
 
